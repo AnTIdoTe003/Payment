@@ -1,0 +1,20 @@
+*{
+    font-family: 'Langar', cursive;
+    padding-left: 5%;
+}
+
+input,textarea{
+    border-radius: 6px;
+    border-color: blue;
+}
+#sub
+{
+    background-color:yellow;
+    padding-top: 0.2%;
+    padding-bottom: 00.2%;
+    padding-left: -0.2%;
+}
+#CardNumber
+{
+    size: 5cm;
+}
